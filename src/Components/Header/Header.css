@@ -1,0 +1,26 @@
+.header-logo{
+    display: flex;
+    justify-content: center;
+}
+.header-logo img{
+    width: 300px;
+    padding: 10px;
+}
+.nav-bar{
+    background-color: black;
+    padding-left: 20px;
+}
+.nav-bar nav{
+    display: flex;
+}
+.nav-bar a{
+    text-decoration: none;
+    color: white;
+}
+.nav-bar li{
+    padding: 10px;
+    list-style-type: none;
+}
+.nav-bar li:hover{
+    background-color: lightgray;
+}

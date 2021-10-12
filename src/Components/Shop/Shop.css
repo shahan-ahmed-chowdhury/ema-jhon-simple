@@ -1,0 +1,27 @@
+.search-container{
+    background-color: black;
+    height: 40px;
+    text-align: center;
+}
+.search-bar{
+    width: 75%;
+    height: 25px;
+}
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.product-container{
+    margin-left: 100px;
+    margin-right: 10px;
+    border-right: 1px solid lightgray;
+}
+.cart{
+    line-height: 10px;
+}
+.review-order-btn{
+    padding: 5px 70px 5px 70px;
+    background-color: #f0c14b;
+    border: 1px solid black;
+    border-radius: 3px;
+}
